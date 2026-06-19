@@ -12,8 +12,6 @@ The analysis focuses on the relationship between customer income, age, family si
 
 The project includes exploratory data analysis and customer segmentation visualizations to identify spending patterns and high-value customers.
 
-![Project Screenshot](images/project_dashboard.png)
-
 ## Business Problem
 
 Businesses need to understand which customer groups generate the highest revenue and what factors drive purchasing behavior.
@@ -108,10 +106,13 @@ Additional variables were created during the analysis:
 
 Pricing-Psychology-And-Consumer-Behavior-Analysis/
 
+│
 ├── README.md
 ├── .gitignore
+│
 ├── data/
 │   └── marketing_campaign.csv
+│
 └── notebooks/
     └── Pricing_Psychology_and_Consumer_Behavior_Analysis.ipynb
 
