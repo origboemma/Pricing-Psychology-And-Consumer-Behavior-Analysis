@@ -1,2 +1,14 @@
-__pycache__/ 
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+
+# VS Code
+.vscode/settings.json
