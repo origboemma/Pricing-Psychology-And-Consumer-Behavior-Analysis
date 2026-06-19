@@ -104,6 +104,7 @@ Additional variables were created during the analysis:
 
 ## Project Structure
 
+```text
 Pricing-Psychology-And-Consumer-Behavior-Analysis/
 
 │
@@ -114,7 +115,8 @@ Pricing-Psychology-And-Consumer-Behavior-Analysis/
 │   └── marketing_campaign.csv
 │
 └── notebooks/
-    └── Pricing_Psychology_and_Consumer_Behavior_Analysis.ipynbss
+    └── Pricing_Psychology_and_Consumer_Behavior_Analysis.ipynb
+```
 
 ## Author
 
