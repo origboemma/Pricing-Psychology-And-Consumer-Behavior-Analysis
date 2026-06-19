@@ -114,7 +114,7 @@ Pricing-Psychology-And-Consumer-Behavior-Analysis/
 │   └── marketing_campaign.csv
 │
 └── notebooks/
-    └── Pricing_Psychology_and_Consumer_Behavior_Analysis.ipynb
+    └── Pricing_Psychology_and_Consumer_Behavior_Analysis.ipynbss
 
 ## Author
 
